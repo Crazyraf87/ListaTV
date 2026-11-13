@@ -34,13 +34,13 @@ https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8
 https://585b674743bbb.streamlock.net/9006/9006/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="Sky TG24" tvg-logo="https://i.imgur.com/q4d3Dah.png" tvg-id="Sky.TG24.it" tvg-chno="50" tvg-country="IT" group-title=“TG”,Sky TG24 Ⓖ
+#EXTINF:-1 tvg-name="Sky TG24" tvg-logo="https://i.imgur.com/q4d3Dah.png" tvg-id="Sky.TG24.it" tvg-chno="50" tvg-country="IT" group-title="TG",Sky TG24 Ⓖ
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1 tvg-name="TGCOM 24" tvg-logo="https://i.imgur.com/xautVD8.png" tvg-id="TGCom.it" tvg-chno="51" tvg-country="IT" group-title="TG",TGCOM 24 Ⓖ
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 
 
-#EXTINF:-1 tvg-name="Radio Ibiza" tvg-logo="https://i.imgur.com/uu0DHY5.png" tvg-country="IT" group-title=“Radio”,Radio Ibiza
+#EXTINF:-1 tvg-name="Radio Ibiza" tvg-logo="https://i.imgur.com/uu0DHY5.png" tvg-country="IT" group-title="Radio",Radio Ibiza
 https://str48.fluid.stream/RadioIbizaTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio m2o Tv" tvg-logo="https://i.imgur.com/wl30UFj.png" tvg-id="m2oTV.it" tvg-country="IT" group-title="Radio",Radio m2o Tv
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
@@ -52,7 +52,7 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/p
 https://diretta.arcapuglia.it:8080/live/partenope/index.m3u8
 #EXTINF:-1 tvg-name="Prima Tv Napoli" tvg-logo="https://i.imgur.com/yPuQeEy.jpg" tvg-country="IT" group-title="Campania",Prima Tv Napoli
 https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
-#EXTINF:-1 tvg-name="RTN Napoli" tvg-logo="https://hostux.pics/images/2026/09/11/22_rtn_napoli29538077f1c13762.png" tvg-country="IT" group-title=“Campania”,RTN Napoli
+#EXTINF:-1 tvg-name="RTN Napoli" tvg-logo="https://hostux.pics/images/2026/09/11/22_rtn_napoli29538077f1c13762.png" tvg-country="IT" group-title="Campania",RTN Napoli
 https://rst2.saiuzwebnetwork.it:8081/saiuz-2/index.m3u8
 #EXTINF:-1 tvg-name="Tv Campi Flegrei" tvg-logo="https://i.imgur.com/9d2K1nX.png" tvg-country="IT" group-title="Campania",Tv Campi Flegrei
 https://tv.radiosaiuz.com:3836/live/campiflegreilive.m3u8
@@ -70,7 +70,7 @@ https://ch21napoli-cdn.encoders.immergo.tv/master.m3u8
 http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="K2" tvg-logo="https://i.imgur.com/wlLgSiA.png" tvg-id="K2.it" tvg-chno="41" tvg-country="IT" group-title=“Bambini”,K2
+#EXTINF:-1 tvg-name="K2" tvg-logo="https://i.imgur.com/wlLgSiA.png" tvg-id="K2.it" tvg-chno="41" tvg-country="IT" group-title="Bambini",K2
 https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
 #EXTINF:-1 tvg-name="Frisbee" tvg-logo="https://i.imgur.com/9y1zIAe.png" tvg-id="Frisbee.it" tvg-chno="44" tvg-country="IT" group-title="Bambini",Frisbee
 https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
